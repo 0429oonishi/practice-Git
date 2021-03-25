@@ -12,8 +12,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("issue1")
-        print("issue2")
-
+        print("issue3")
+        print("issue4")
+        print("issue4")
+        print("issue4")
+        print("issue4")
+        print("issue4")
+        print("issue4")
     }
 
 
