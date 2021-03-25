@@ -11,11 +11,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-    }
-
+  
+    
 
 }
 >>>>>>> 45f7ff5... aaaa
