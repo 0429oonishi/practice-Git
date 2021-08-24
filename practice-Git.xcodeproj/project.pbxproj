@@ -13,6 +13,7 @@
 		AB2BC069260C08B300CB2443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB2BC068260C08B300CB2443 /* Assets.xcassets */; };
 		AB2BC06C260C08B300CB2443 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB2BC06A260C08B300CB2443 /* LaunchScreen.storyboard */; };
 		AB8B704226D500590069FF67 /* AAAViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8B704126D500590069FF67 /* AAAViewController.swift */; };
+		AB8B704626D5016E0069FF67 /* BBBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB8B704526D5016E0069FF67 /* BBBViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AB2BC06B260C08B300CB2443 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB2BC06D260C08B300CB2443 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB8B704126D500590069FF67 /* AAAViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AAAViewController.swift; sourceTree = "<group>"; };
+		AB8B704526D5016E0069FF67 /* BBBViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BBBViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AB2BC05F260C08AF00CB2443 /* AppDelegate.swift */,
 				AB2BC061260C08AF00CB2443 /* SceneDelegate.swift */,
 				AB8B704126D500590069FF67 /* AAAViewController.swift */,
+				AB8B704526D5016E0069FF67 /* BBBViewController.swift */,
 				AB2BC065260C08AF00CB2443 /* Main.storyboard */,
 				AB2BC068260C08B300CB2443 /* Assets.xcassets */,
 				AB2BC06A260C08B300CB2443 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				AB8B704226D500590069FF67 /* AAAViewController.swift in Sources */,
 				AB2BC060260C08AF00CB2443 /* AppDelegate.swift in Sources */,
 				AB2BC062260C08AF00CB2443 /* SceneDelegate.swift in Sources */,
+				AB8B704626D5016E0069FF67 /* BBBViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
